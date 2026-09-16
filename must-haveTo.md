@@ -45,9 +45,9 @@ Khi thêm `not` vào, hai từ này biến thành hai thế giới hoàn toàn k
 Hãy thử đóng vai gia sư và giải quyết 2 tình huống sau bằng cảm xúc[cite: 1]:
 
 1.  **Tình huống A:** Bạn đi máy bay. Tiếp viên yêu cầu tất cả hành khách cài dây an toàn trước khi cất cánh.
-    *   *Lựa chọn:* Dùng `must` hay `have to`?
-    *   *Tại sao:* Vì đây là quy định an toàn hàng không bắt buộc từ bên ngoài, hay do từng hành khách tự dưng thích cài?
+    *   *Đáp án:* `You must fasten your seat belt before takeoff.`
+    *   *Tại sao:* Ở đây `must` được dùng để truyền đạt một yêu cầu/quy định an toàn nghiêm túc từ người có thẩm quyền.
 
 2.  **Tình huống B:** Bạn vừa ăn một chiếc bánh mì cực ngon ở vỉa hè Hà Nội. Bạn hào hứng vỗ vai bạn thân: *"Mày ăn thử miếng đi, ngon dã man!"*
-    *   *Lựa chọn:* `You must try this!` hay `You have to try this!`?
-    *   *Tại sao:* Cảm giác nào thể hiện sự mời mọc nhiệt tình từ tận đáy lòng?
+    *   *Đáp án:* `You must try this!`
+    *   *Tại sao:* `Must` diễn tả lời mời mọc hoặc lời khuyên rất nhiệt tình, xuất phát từ cảm nhận của chính người nói.
